@@ -1,0 +1,1 @@
+This folder contains python notebooks which consists of the EDA process and sales forecasting model techniques used.
