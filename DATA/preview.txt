@@ -1,2 +1,2 @@
-1) beverage_cleaned.csv :- Data used in python tasks
+1) beverage_cleaned.csv :- Data used in python tasks and power BI dashboard
 2) Retail and wherehouse Sale.csv :- Original raw Data
